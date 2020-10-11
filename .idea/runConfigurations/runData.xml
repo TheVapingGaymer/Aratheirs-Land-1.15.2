@@ -1,0 +1,22 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="runData" type="Application" factoryName="Application" singleton="false">
+    <envs>
+      <env name="MOD_CLASSES" value="examplemod%%$PROJECT_DIR$/../Aratheirs Land 1.16.3\build\resources\main;examplemod%%$PROJECT_DIR$/../Aratheirs Land 1.16.3\build\classes\java\main" />
+      <env name="MCP_MAPPINGS" value="snapshot_20201011-1.15.1" />
+      <env name="MCP_VERSION" value="20200515.085601" />
+      <env name="FORGE_VERSION" value="31.2.0" />
+      <env name="FORGE_GROUP" value="net.minecraftforge" />
+      <env name="target" value="fmluserdevdata" />
+      <env name="MC_VERSION" value="1.15.2" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="net.minecraftforge.userdev.LaunchTesting" />
+    <module name="Aratheirs_Land_1.16.3.main" />
+    <option name="PROGRAM_PARAMETERS" value="--mod examplemod --all --output &quot;C:\Users\Damon\Desktop\Minecraft Modding\Aratheirs Land 1.16.3\src\generated\resources&quot;" />
+    <option name="VM_PARAMETERS" value="-Dforge.logging.console.level=debug -Dforge.logging.markers=SCAN,REGISTRIES,REGISTRYDUMP" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+      <option name="Gradle.BeforeRunTask" enabled="true" tasks=":prepareRunData" externalProjectPath="$PROJECT_DIR$" />
+    </method>
+  </configuration>
+</component>
