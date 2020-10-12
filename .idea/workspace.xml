@@ -15,6 +15,13 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -31,12 +38,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/assets/aratheirsland/textures/items" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Damon\Desktop\Minecraft Modding\Aratheirs Land 1.16.3\src\main\resources\assets\aratheirsland\textures\blocks" />
+      <recent name="C:\Users\Damon\Desktop\Minecraft Modding\Aratheirs Land 1.16.3\src\main\resources\assets\aratheirsland\textures\items" />
+      <recent name="C:\Users\Damon\Desktop\Minecraft Modding\Aratheirs Land 1.16.3\src\main\resources\assets\aratheirsland\models\item" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Damon\Desktop\Minecraft Modding\Aratheirs Land 1.16.3\src\main\resources\assets\aratheirsland\textures\items" />
+      <recent name="C:\Users\Damon\Desktop\Minecraft Modding\Aratheirs Land 1.16.3\src\main\resources\assets\aratheirsland\models\item" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.runClient">
     <list>
@@ -61,21 +79,21 @@
       <screen x="0" y="0" width="2172" height="1222" />
     </state>
     <state x="579" y="276" width="1089" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2172.1222@0.0.2172.1222" timestamp="1602458753092" />
-    <state width="1554" height="266" key="GridCell.Tab.0.bottom" timestamp="1602459790245">
+    <state width="1554" height="266" key="GridCell.Tab.0.bottom" timestamp="1602465410980">
       <screen x="0" y="0" width="2172" height="1222" />
     </state>
-    <state width="1554" height="266" key="GridCell.Tab.0.bottom/0.0.2172.1222@0.0.2172.1222" timestamp="1602459790245" />
-    <state width="1554" height="266" key="GridCell.Tab.0.center" timestamp="1602459790244">
+    <state width="1554" height="266" key="GridCell.Tab.0.bottom/0.0.2172.1222@0.0.2172.1222" timestamp="1602465410980" />
+    <state width="1554" height="266" key="GridCell.Tab.0.center" timestamp="1602465410980">
       <screen x="0" y="0" width="2172" height="1222" />
     </state>
-    <state width="1554" height="266" key="GridCell.Tab.0.center/0.0.2172.1222@0.0.2172.1222" timestamp="1602459790244" />
-    <state width="1554" height="266" key="GridCell.Tab.0.left" timestamp="1602459790244">
+    <state width="1554" height="266" key="GridCell.Tab.0.center/0.0.2172.1222@0.0.2172.1222" timestamp="1602465410980" />
+    <state width="1554" height="266" key="GridCell.Tab.0.left" timestamp="1602465410980">
       <screen x="0" y="0" width="2172" height="1222" />
     </state>
-    <state width="1554" height="266" key="GridCell.Tab.0.left/0.0.2172.1222@0.0.2172.1222" timestamp="1602459790244" />
-    <state width="1554" height="266" key="GridCell.Tab.0.right" timestamp="1602459790245">
+    <state width="1554" height="266" key="GridCell.Tab.0.left/0.0.2172.1222@0.0.2172.1222" timestamp="1602465410980" />
+    <state width="1554" height="266" key="GridCell.Tab.0.right" timestamp="1602465410980">
       <screen x="0" y="0" width="2172" height="1222" />
     </state>
-    <state width="1554" height="266" key="GridCell.Tab.0.right/0.0.2172.1222@0.0.2172.1222" timestamp="1602459790245" />
+    <state width="1554" height="266" key="GridCell.Tab.0.right/0.0.2172.1222@0.0.2172.1222" timestamp="1602465410980" />
   </component>
 </project>

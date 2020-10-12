@@ -22,13 +22,15 @@ import java.util.stream.Collectors;
 @Mod("aratheirsland")
 public class AratheirsLand
 {
-
     private static final Logger LOGGER = LogManager.getLogger();
+    public static final String MOD_ID = "aratheirsland";
+    public static AratheirsLand instance;
 
     public AratheirsLand()
     {
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::setup);
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::doClientStuff);
+        instance = this;
 
         MinecraftForge.EVENT_BUS.register(this);
     }

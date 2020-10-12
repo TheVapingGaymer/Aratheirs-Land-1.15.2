@@ -18,13 +18,13 @@ displayName="Aeither's Land" #mandatory
 
 updateJSONURL="http://myurl.me/" #optional
 
-displayURL="http://example.com/" #optional
+displayURL="https://github.com/TheVapingGaymer/Aratheirs-Land-1.15.2" #optional
 
 logoFile="examplemod.png" #optional
 
-credits="Thanks for this example mod goes to Java" #optional
+credits="A mod that adds new items, lore and gear." #optional
 
-authors="Love, Cheese and small house plants" #optional
+authors="TheVapingGaymer" #optional
 
 description=''' Nothing to see here. '''
 
