@@ -1,5 +1,20 @@
 {
   "item.aratheirsland.crasteel_ingot": "Crasteel Ingot",
+  "item.aratheirsland.crasteel_dust": "Crasteel Dust",
+  "item.aratheirsland.coal_dust": "Coal Dust",
+  "item.aratheirsland.iron_dust": "Iron Dust",
+  "item.aratheirsland.steel_dust": "Steel Dust",
+  "item.aratheirsland.steel_ingot": "Steel Dust",
+  "item.aratheirsland.liquid_crasteel": "Liquid Crasteel",
+  "item.aratheirsland.crasteel_double_ingot": "Crasteel Double Ingot",
 
-  "block.aratheirsland.crasteel_ore": "Crasteel Ore"
+  "item.aratheirsland.crasteel_sword": "Crasteel Sword",
+  "item.aratheirsland.crasteel_pickaxe": "Crasteel Pickaxe",
+  "item.aratheirsland.crasteel_axe": "Crasteel Axe",
+  "item.aratheirsland.crasteel_shovel": "Crasteel Shovel",
+  "item.aratheirsland.crasteel_hoe": "Crasteel Hoe",
+
+  "block.aratheirsland.crasteel_ore": "Crasteel Ore",
+
+  "itemGroup.aratheirstab": "Aratheir's Land"
 }

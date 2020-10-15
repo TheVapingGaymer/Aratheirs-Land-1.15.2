@@ -46,12 +46,12 @@
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Damon\Desktop\Minecraft Modding\Aratheirs Land 1.16.3\src\main\resources\assets\aratheirsland\textures\blocks" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Damon\Desktop\Minecraft Modding\Aratheirs Land 1.16.3\src\main\resources\assets\aratheirsland\textures\items" />
       <recent name="C:\Users\Damon\Desktop\Minecraft Modding\Aratheirs Land 1.16.3\src\main\resources\assets\aratheirsland\models\item" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Damon\Desktop\Minecraft Modding\Aratheirs Land 1.16.3\src\main\resources\assets\aratheirsland\textures\blocks" />
       <recent name="C:\Users\Damon\Desktop\Minecraft Modding\Aratheirs Land 1.16.3\src\main\resources\assets\aratheirsland\textures\items" />
       <recent name="C:\Users\Damon\Desktop\Minecraft Modding\Aratheirs Land 1.16.3\src\main\resources\assets\aratheirsland\models\item" />
     </key>
@@ -79,21 +79,29 @@
       <screen x="0" y="0" width="2172" height="1222" />
     </state>
     <state x="579" y="276" width="1089" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2172.1222@0.0.2172.1222" timestamp="1602458753092" />
-    <state width="1554" height="266" key="GridCell.Tab.0.bottom" timestamp="1602465410980">
+    <state x="0" y="827" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602744722072">
       <screen x="0" y="0" width="2172" height="1222" />
     </state>
-    <state width="1554" height="266" key="GridCell.Tab.0.bottom/0.0.2172.1222@0.0.2172.1222" timestamp="1602465410980" />
-    <state width="1554" height="266" key="GridCell.Tab.0.center" timestamp="1602465410980">
+    <state x="0" y="827" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2172.1222@0.0.2172.1222" timestamp="1602744722072" />
+    <state x="886" y="604" key="#com.intellij.ide.util.MemberChooser" timestamp="1602684246117">
       <screen x="0" y="0" width="2172" height="1222" />
     </state>
-    <state width="1554" height="266" key="GridCell.Tab.0.center/0.0.2172.1222@0.0.2172.1222" timestamp="1602465410980" />
-    <state width="1554" height="266" key="GridCell.Tab.0.left" timestamp="1602465410980">
+    <state x="886" y="604" key="#com.intellij.ide.util.MemberChooser/0.0.2172.1222@0.0.2172.1222" timestamp="1602684246117" />
+    <state width="1626" height="247" key="GridCell.Tab.0.bottom" timestamp="1602745745569">
       <screen x="0" y="0" width="2172" height="1222" />
     </state>
-    <state width="1554" height="266" key="GridCell.Tab.0.left/0.0.2172.1222@0.0.2172.1222" timestamp="1602465410980" />
-    <state width="1554" height="266" key="GridCell.Tab.0.right" timestamp="1602465410980">
+    <state width="1626" height="247" key="GridCell.Tab.0.bottom/0.0.2172.1222@0.0.2172.1222" timestamp="1602745745569" />
+    <state width="1626" height="247" key="GridCell.Tab.0.center" timestamp="1602745745569">
       <screen x="0" y="0" width="2172" height="1222" />
     </state>
-    <state width="1554" height="266" key="GridCell.Tab.0.right/0.0.2172.1222@0.0.2172.1222" timestamp="1602465410980" />
+    <state width="1626" height="247" key="GridCell.Tab.0.center/0.0.2172.1222@0.0.2172.1222" timestamp="1602745745569" />
+    <state width="1626" height="247" key="GridCell.Tab.0.left" timestamp="1602745745569">
+      <screen x="0" y="0" width="2172" height="1222" />
+    </state>
+    <state width="1626" height="247" key="GridCell.Tab.0.left/0.0.2172.1222@0.0.2172.1222" timestamp="1602745745569" />
+    <state width="1626" height="247" key="GridCell.Tab.0.right" timestamp="1602745745569">
+      <screen x="0" y="0" width="2172" height="1222" />
+    </state>
+    <state width="1626" height="247" key="GridCell.Tab.0.right/0.0.2172.1222@0.0.2172.1222" timestamp="1602745745569" />
   </component>
 </project>

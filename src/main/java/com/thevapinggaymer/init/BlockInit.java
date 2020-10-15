@@ -19,6 +19,7 @@ import net.minecraftforge.registries.ObjectHolder;
 public class BlockInit
 {
     public static final Block crasteel_ore = null;
+
     // Blocks
     @SubscribeEvent
     public static void registerBlocks(final RegistryEvent.Register<Block> event)
@@ -30,6 +31,6 @@ public class BlockInit
     @SubscribeEvent
     public static void registerBlockItems(final RegistryEvent.Register<Item> event)
     {
-        event.getRegistry().register(new BlockItem(crasteel_ore, new Item.Properties().group(ItemGroup.MATERIALS)).setRegistryName("crasteel_ore"));
+        event.getRegistry().register(new BlockItem(crasteel_ore, new Item.Properties().group(AratheirsLand.AratheirsLandItemGroup.instance)).setRegistryName("crasteel_ore"));
     }
 }
